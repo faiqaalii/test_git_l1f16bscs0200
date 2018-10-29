@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "Name:a.ali
+=======
+"Name:s.ali"
+>>>>>>> 80f47da95976e068f932d82b27a17bd5d95855b5
 Email: faiqa_ali@ucp.edu.pk
 Faculty of Information Technology
